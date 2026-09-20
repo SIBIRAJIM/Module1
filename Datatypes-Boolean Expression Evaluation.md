@@ -1,21 +1,29 @@
 
-# Ex 1:Datatypes-Boolean Expression Evaluation in Python
+# Ex 1:Data Types – Printing Integer Literals
 
-## 🎯 Aim
-To write a Python program that evaluates and prints the results of boolean and arithmetic expressions involving `True` and `False`.
+## AIM  
+To write a Python program to print the following integer literals: 202_496_289
 
-## 🧠 Algorithm
-1. Set variable `a` to the result of the expression `0 == True`.
-2. Set variable `b` to the result of the expression `False == False`.
-3. Set variable `c` to the result of the expression `True + True`.
-4. Set variable `d` to the result of the expression `False + 9`.
-5. Print the value of `a` with the label "a is".
-6. Print the value of `b` with the label "b is".
-7. Print the value of `c` with the label "c:".
-8. Print the value of `d` with the label "d:".
+## ALGORITHM  
+1. Begin the program.  
+2. Initialize the integer literals `202_496_289`.  
+3. Use the `print()` function to display the numbers `202_496_289`.  
+4. Terminate the program.
 
-## 💻 Program
-Add Code here
+## PROGRAM
+```
+python
+# Reg.No-212223050048
+# Name-SIBIRAJI M
+# Write your code here!
 
-## Output
-## Result
+print(202_496_289)
+
+```
+## OUTPUT
+
+![Screenshot 2025-04-24 214037](https://github.com/user-attachments/assets/3af053eb-9c68-433b-b559-5c21aa6922a0)
+
+## RESULT
+Thus the Python program to print the following integer literals: 202_496_289 is executed successfully.
+
